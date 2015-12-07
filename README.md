@@ -1,6 +1,5 @@
 **SARA INÉS CALDERÓN**
 
- (512) 931-1477 | [saraines.calderon@gmail.com](mailto:saraines.calderon@gmail.com)
 | [http://github.com/SaraChicaD](http://github.com/SaraChicaD)
 
 **EXPERTISE**
@@ -39,9 +38,7 @@ Attribute Routing, and Trello.
 GEO location, fully responsive UI, semi-finalist for a $100,000 grant
 competition.
 
-·       TechWeek LA Hackathon Winner at TechWeek LA: 2
-
-nd
+·       TechWeek LA Hackathon Winner at TechWeek LA: 2nd
 Place for [Two Birds](http://twobirds.azurewebsites.net/) errand app
 integrating: Google Maps & Yelp APIs, Visual Studio 2013, C#, .Net 4.5, MVC
 5, WebAPI 2.0, SQL Server 2014, GitHub, jQuery, AJAX, Bootstrap 3.0, CSS3 and
