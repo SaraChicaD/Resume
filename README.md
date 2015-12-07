@@ -1,6 +1,6 @@
 **SARA INÉS CALDERÓN**
 
-| [http://github.com/SaraChicaD](http://github.com/SaraChicaD)
+[http://github.com/SaraChicaD](http://github.com/SaraChicaD)
 
 **EXPERTISE**
 
